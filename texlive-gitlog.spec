@@ -1,6 +1,6 @@
 Name:		texlive-gitlog
 Version:	38932
-Release:	1
+Release:	2
 Summary:	Typesetting git changelogs
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/gitlog
