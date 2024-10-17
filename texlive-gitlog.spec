@@ -3,7 +3,7 @@ Version:	38932
 Release:	2
 Summary:	Typesetting git changelogs
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/gitlog
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/gitlog
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/gitlog.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/gitlog.doc.r%{version}.tar.xz
